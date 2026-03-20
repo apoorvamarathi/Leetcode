@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/apoorvamarathi/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/apoorvamarathi/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/apoorvamarathi/Leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/apoorvamarathi/Leetcode/tree/master/0036-valid-sudoku) |
 ## String
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/apoorvamarathi/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/apoorvamarathi/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/apoorvamarathi/Leetcode/tree/master/0036-valid-sudoku) |
 ## Backtracking
 |  |
 | ------- |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/apoorvamarathi/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/apoorvamarathi/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/apoorvamarathi/Leetcode/tree/master/0035-search-insert-position) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/apoorvamarathi/Leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
