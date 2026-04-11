@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/apoorvamarathi/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/apoorvamarathi/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/apoorvamarathi/Leetcode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/apoorvamarathi/Leetcode/tree/master/0042-trapping-rain-water) |
 ## String
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/apoorvamarathi/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/apoorvamarathi/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/apoorvamarathi/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/apoorvamarathi/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Sorting
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/apoorvamarathi/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/apoorvamarathi/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/apoorvamarathi/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Recursion
 |  |
 | ------- |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/apoorvamarathi/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/apoorvamarathi/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/apoorvamarathi/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -105,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/apoorvamarathi/Leetcode/tree/master/0036-valid-sudoku) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/apoorvamarathi/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
