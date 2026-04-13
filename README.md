@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/apoorvamarathi/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/apoorvamarathi/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/apoorvamarathi/Leetcode/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/apoorvamarathi/Leetcode/tree/master/0044-wildcard-matching) |
 ## Trie
 |  |
 | ------- |
@@ -74,12 +75,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/apoorvamarathi/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/apoorvamarathi/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/apoorvamarathi/Leetcode/tree/master/0044-wildcard-matching) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/apoorvamarathi/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/apoorvamarathi/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/apoorvamarathi/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/apoorvamarathi/Leetcode/tree/master/0044-wildcard-matching) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -122,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/apoorvamarathi/Leetcode/tree/master/0043-multiply-strings) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/apoorvamarathi/Leetcode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
