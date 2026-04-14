@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/apoorvamarathi/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/apoorvamarathi/Leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/apoorvamarathi/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/apoorvamarathi/Leetcode/tree/master/0045-jump-game-ii) |
 ## String
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/apoorvamarathi/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/apoorvamarathi/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/apoorvamarathi/Leetcode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/apoorvamarathi/Leetcode/tree/master/0045-jump-game-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -129,4 +131,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/apoorvamarathi/Leetcode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/apoorvamarathi/Leetcode/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
