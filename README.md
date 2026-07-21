@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/apoorvamarathi/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/apoorvamarathi/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/apoorvamarathi/Leetcode/tree/master/0047-permutations-ii) |
+| [1929-concatenation-of-array](https://github.com/apoorvamarathi/Leetcode/tree/master/1929-concatenation-of-array) |
 ## String
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/apoorvamarathi/Leetcode/tree/master/0043-multiply-strings) |
+| [1929-concatenation-of-array](https://github.com/apoorvamarathi/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Greedy
 |  |
 | ------- |
