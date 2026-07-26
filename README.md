@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/apoorvamarathi/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/apoorvamarathi/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/apoorvamarathi/Leetcode/tree/master/0047-permutations-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/apoorvamarathi/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/apoorvamarathi/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/apoorvamarathi/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0636-exclusive-time-of-functions](https://github.com/apoorvamarathi/Leetcode/tree/master/0636-exclusive-time-of-functions) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/apoorvamarathi/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/apoorvamarathi/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/apoorvamarathi/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/apoorvamarathi/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/apoorvamarathi/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/apoorvamarathi/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Recursion
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/apoorvamarathi/Leetcode/tree/master/0043-multiply-strings) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/apoorvamarathi/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Simulation
 |  |
 | ------- |
