@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/apoorvamarathi/Leetcode/tree/master/0047-permutations-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/apoorvamarathi/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/apoorvamarathi/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0636-exclusive-time-of-functions](https://github.com/apoorvamarathi/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/apoorvamarathi/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/apoorvamarathi/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/apoorvamarathi/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/apoorvamarathi/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/apoorvamarathi/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/apoorvamarathi/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0636-exclusive-time-of-functions](https://github.com/apoorvamarathi/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 ## Recursion
 |  |
 | ------- |
