@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/apoorvamarathi/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/apoorvamarathi/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1929-concatenation-of-array](https://github.com/apoorvamarathi/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/apoorvamarathi/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## String
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/apoorvamarathi/Leetcode/tree/master/0043-multiply-strings) |
 | [1441-build-an-array-with-stack-operations](https://github.com/apoorvamarathi/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/apoorvamarathi/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/apoorvamarathi/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Greedy
 |  |
 | ------- |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/apoorvamarathi/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/apoorvamarathi/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
